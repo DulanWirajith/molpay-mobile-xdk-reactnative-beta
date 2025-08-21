@@ -1,0 +1,31 @@
+{
+  "name": "molpay-mobile-xdk-reactnative-beta",
+  "version": "0.32.1",
+  "description": "Razer Merchant Services mobile payment for React Native",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazerMS/rms-mobile-xdk-reactnative-beta.git"
+  },
+  "keywords": [
+    "razer",
+    "molpay",
+    "in",
+    "app",
+    "mobile",
+    "asia",
+    "payment",
+    "gateway",
+    "merchant",
+    "service"
+  ],
+  "author": "Razer Merchant Services Mobile Division",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RazerMS/rms-mobile-xdk-reactnative-beta/issues"
+  },
+  "homepage": "https://github.com/RazerMS/rms-mobile-xdk-reactnative-beta#readme",
+  "dependencies": {}
+}
